@@ -741,7 +741,7 @@ st.sidebar.markdown("<p class='sidebar-text'>Use the sidebar to explore differen
 st.sidebar.image("utils/main_profile.png", use_container_width=True)
 
 # --- Hardcoded SendGrid API Key ---
-SENDGRID_API_KEY = "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"
+SENDGRID_API_KEY = ""
 FROM_EMAIL = "pratyush.20mis7028@vitap.ac.in"  # Use verified sender email
 
 
